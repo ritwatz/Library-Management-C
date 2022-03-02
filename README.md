@@ -1,1 +1,1 @@
-# Library-Management-C
+A mini project in C
